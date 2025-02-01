@@ -1,5 +1,5 @@
 .DS_S*
 __pycache__/
-HW*-solution.ipynb
-HW*.ipynb
+*.pyc
 *_utils.py
+*_utils.py.*
